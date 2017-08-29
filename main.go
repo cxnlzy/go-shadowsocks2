@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"time"
 
-	"./core"
+	"github.com/lichc/go-shadowsocks2/core"
 )
 
 var config struct {
