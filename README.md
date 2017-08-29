@@ -4,6 +4,8 @@ A fresh implementation of Shadowsocks in Go.
 
 GoDoc at https://godoc.org/github.com/shadowsocks/go-shadowsocks2/
 
+## Changes
+- Add chacha20 cipher
 
 ## Features
 
